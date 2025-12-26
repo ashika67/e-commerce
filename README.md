@@ -20,7 +20,7 @@ Bootstrap: For a modern and responsive framework. 🛠️
 Installation 🛠️
 
 Clone the repository:
-git clone https://github.com/ashika67/EliteMart.gitEliteMart.git
+git clone https://github.com/ashika67/e-commerce.git
 
 Navigate to the project directory:
 
